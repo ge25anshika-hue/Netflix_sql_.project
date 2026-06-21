@@ -1,1 +1,1 @@
-# Netflix_sql_.project
+# Netflix TV sjows and Movies analysis using sql
