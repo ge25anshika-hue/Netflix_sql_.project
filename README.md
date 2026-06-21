@@ -37,12 +37,12 @@ SELECT COUNT(*) FROM netflix_titles;
 select * from netflix_titles;
 select distinct type from netflix_titles;
 
--- count the number of movies and TV shows
+##-- count the number of movies and TV shows
 select type, count(*) as Total_content 
 from netflix_titles
 group by type;
 
--- find the most common rating for movies and TV shows
+##-- find the most common rating for movies and TV shows
 select 
 type,
  rating from
