@@ -1,1 +1,1 @@
-# Netflix TV sjows and Movies analysis using sql
+# Netflix TV shows and Movies analysis using SQL
