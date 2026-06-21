@@ -1,5 +1,5 @@
 # Netflix TV shows and Movies analysis using SQL
-![netfliximage]<img width="2226" height="678" alt="image" src="https://github.com/user-attachments/assets/52456aa7-bd62-468c-a2d0-e426adeddf6c" />
+<img width="2226" height="678" alt="image" src="https://github.com/user-attachments/assets/52456aa7-bd62-468c-a2d0-e426adeddf6c" />
 Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
