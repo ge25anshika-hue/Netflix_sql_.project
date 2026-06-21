@@ -10,7 +10,8 @@ Analyze the distribution of content types (movies vs TV shows).
 Identify the most common ratings for movies and TV shows.
 List and analyze content based on release years, countries, and durations.
 Explore and categorize content based on specific criteria and keywords.create database Netflix_db;
-Schema 
+##Schema 
+***sql 
 CREATE TABLE netflix_titles (
     show_id VARCHAR(20),
     type VARCHAR(20),
@@ -24,7 +25,8 @@ CREATE TABLE netflix_titles (
     duration VARCHAR(20),
     listed_in TEXT,
     description TEXT
-);
+); ***
+
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/netflix_titles.csv'
 INTO TABLE netflix_titles
 FIELDS TERMINATED BY ','
